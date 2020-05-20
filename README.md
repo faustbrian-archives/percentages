@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/github/workflow/status/kodekeep/percentages/run-tests?label=tests)](https://github.com/kodekeep/percentages/actions?query=workflow%3Arun-tests+branch%3Amaster)
 [![Coverage Status](https://badgen.net/codeclimate/coverage/kodekeep/percentages)](https://codeclimate.com/github/kodekeep/percentages)
 [![Quality Score](https://badgen.net/codeclimate/maintainability/kodekeep/percentages)](https://codeclimate.com/github/kodekeep/percentages)
-[![Total Downloads](https://badgen.net/npm/dt/kodekeep/percentages)](https://npmjs.com/package/@kodekeep/percentages)
+[![Total Downloads](https://badgen.net/npm/dt/@kodekeep/percentages)](https://npmjs.com/package/@kodekeep/percentages)
 
 This package was created by, and is maintained by [Brian Faust](https://github.com/faustbrian), and provides a developer experience focused API for Percentage Calculations.
 
