@@ -2,14 +2,10 @@
 	"name": "@konceiver/percentages",
 	"version": "1.0.0",
 	"description": "DX Focused API for Percentage Calculations",
-	"repository": "https://github.com/konceiver/percentages",
 	"license": "MIT",
+	"repository": "https://github.com/konceiver/percentages",
 	"author": "Konceiver Oy <info@konceiver.dev>",
 	"main": "dist/index",
-	"types": "dist/index",
-	"files": [
-		"dist"
-	],
 	"scripts": {
 		"build": "tease build",
 		"format": "tease format",
@@ -19,6 +15,9 @@
 		"specs": "tease specs",
 		"test": "tease test"
 	},
+	"files": [
+		"dist"
+	],
 	"devDependencies": {
 		"@konceiver/tease": "^1.5.0",
 		"@types/jest": "^26.0.14",
@@ -27,5 +26,6 @@
 		"jest-extended": "^0.11.5",
 		"ts-jest": "^26.3.0",
 		"typescript": "^4.0.3"
-	}
+	},
+	"types": "dist/index"
 }

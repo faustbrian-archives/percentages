@@ -1,4 +1,4 @@
-import { Percentage } from "../src";
+import { Percentage } from ".";
 
 test("can calculate simple percentage differences", () => {
 	expect(20).toBe(Percentage.differenceBetween(100, 120));
