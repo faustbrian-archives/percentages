@@ -16,13 +16,13 @@ This package was created by, and is maintained by [Brian Faust](https://github.c
 ## Installation
 
 ```bash
-yarn add @konceiver/percentages
+npm install @konceiver/percentages
 ```
 
 ## Testing
 
 ```bash
-yarn test
+npm run test
 ```
 
 ## Changelog
