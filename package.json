@@ -20,8 +20,8 @@
 	],
 	"devDependencies": {
 		"@konceiver/tease": "^2.0.1",
-		"@types/jest": "^27.0.0",
-		"@types/node": "^16.6.0",
+		"@types/jest": "^27.0.1",
+		"@types/node": "^16.6.1",
 		"jest": "^27.0.6",
 		"jest-extended": "^0.11.5",
 		"ts-jest": "^27.0.4",
